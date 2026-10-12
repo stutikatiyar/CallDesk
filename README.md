@@ -163,6 +163,10 @@ Before submitting or deploying the project, verify the following:
 
 The generated suggestions were reviewed and adapted during implementation. This disclosure should be updated to accurately reflect the tools used and the work completed by the author.
 
+- **Kanban Case Board** — Visualize and organize customer support cases by workflow status.
+- **Browser-Based Persistence** — Preserve case data and theme preferences using LocalStorage.
+- **Interactive Case Management** — Create cases, search records, filter cases, and inspect individual case details.
+
 ## 🔮 Future Improvements
 
 Potential enhancements include:
